@@ -1,0 +1,13 @@
+{
+  "resources": [
+    "gameover.ogg",
+    "gameover.mp3"
+  ],
+  "spritemap": {
+    "Death of Kings": {
+      "start": 0,
+      "end": 144.22204081632654,
+      "loop": false
+    }
+  }
+}

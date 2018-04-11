@@ -1,0 +1,44 @@
+{"frames": {
+
+"catf1":
+{
+	"frame": {"x":964,"y":1,"w":311,"h":385},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":311,"h":385},
+	"sourceSize": {"w":311,"h":385}
+},
+"catf2":
+{
+	"frame": {"x":644,"y":1,"w":318,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":318,"h":387},
+	"sourceSize": {"w":318,"h":387}
+},
+"catf3":
+{
+	"frame": {"x":330,"y":1,"w":312,"h":390},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":312,"h":390},
+	"sourceSize": {"w":312,"h":390}
+},
+"catf4":
+{
+	"frame": {"x":1,"y":1,"w":327,"h":391},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":327,"h":391},
+	"sourceSize": {"w":327,"h":391}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "catfinaleframe.png",
+	"format": "RGBA8888",
+	"size": {"w":1276,"h":393},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c5964e130b5918d8179c472b2ddb18dd:3ffb0611e2cafcf2c77c2515dbc66ba2:b59ef899b83f0ee519ff64f9c6c06d5b$"
+}
+}

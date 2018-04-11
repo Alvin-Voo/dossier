@@ -1,0 +1,36 @@
+{"frames": {
+
+"cheesepule":
+{
+	"frame": {"x":180,"y":1,"w":164,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":126},
+	"sourceSize": {"w":164,"h":126}
+},
+"largerock":
+{
+	"frame": {"x":1,"y":232,"w":400,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":90},
+	"sourceSize": {"w":400,"h":90}
+},
+"marina_captured":
+{
+	"frame": {"x":1,"y":1,"w":177,"h":229},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":177,"h":229},
+	"sourceSize": {"w":177,"h":229}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "objects5_1.png",
+	"format": "RGBA8888",
+	"size": {"w":402,"h":323},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ad2fa1d8592cd8f81a3df8cd187bfa47:e6d4cbf308776bb5db847f20d6c2f4a2:f38be3fbb1b493310ed80cc5b60c235d$"
+}
+}

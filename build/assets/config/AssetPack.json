@@ -1,0 +1,554 @@
+{
+  "gamenarrative":
+  [
+    {
+      "type": "image",
+      "key": "narrative",
+      "url": "assets/menu/gamenarrative.png",
+      "overwrite": false
+    },
+    {
+      "type": "audiosprite",
+      "key": "intro",
+      "urls": ["assets/audio/intro/intro.ogg","assets/audio/intro/intro.mp3"],
+      "jsonURL":"assets/audio/intro/intro.json",
+      "jsonData":null,
+      "autoDecode": true
+    }
+  ],
+  "ep1":
+  [
+    {
+      "type": "atlasJSONHash",
+      "key": "player",
+      "textureURL": "assets/characters/dossierframe.png",
+      "atlasURL": "assets/characters/dossierframe.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "ratgrunt",
+      "textureURL": "assets/characters/gruntframe.png",
+      "atlasURL": "assets/characters/gruntframe.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "objects1",
+      "textureURL": "assets/gameobjects/objects1.png",
+      "atlasURL": "assets/gameobjects/objects1.json",
+      "atlasData": null
+    },
+    {
+    "type": "tilemap",
+    "key": "ep1",
+    "url": "assets/tilemaps/ep1.json",
+    "data": null,
+    "format": "TILED_JSON"
+    },
+    {
+    "type": "image",
+    "key": "tile",
+    "url": "assets/tilemaps/tiles_objects.png",
+    "overwrite": false
+    },
+    {
+    "type": "audiosprite",
+    "key": "theme",
+    "urls": ["assets/audio/theme/theme.ogg","assets/audio/theme/theme.mp3"],
+    "jsonURL":"assets/audio/theme/theme.json",
+    "jsonData":null,
+    "autoDecode": true
+    }
+  ],
+  "ep2": [
+    {
+      "type": "atlasJSONHash",
+      "key": "player",
+      "textureURL": "assets/characters/dossierframe.png",
+      "atlasURL": "assets/characters/dossierframe.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "ratgrunt",
+      "textureURL": "assets/characters/gruntframe.png",
+      "atlasURL": "assets/characters/gruntframe.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "objects1",
+      "textureURL": "assets/gameobjects/objects1.png",
+      "atlasURL": "assets/gameobjects/objects1.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "objects2",
+      "textureURL": "assets/gameobjects/objects2.png",
+      "atlasURL": "assets/gameobjects/objects2.json",
+      "atlasData": null
+    },
+    {
+      "type": "atlasJSONHash",
+      "key": "ratsoldier",
+      "textureURL": "assets/characters/soldierframe.png",
+      "atlasURL": "assets/characters/soldierframe.json",
+      "atlasData": null
+    },
+    {
+      "type": "tilemap",
+      "key": "ep2",
+      "url": "assets/tilemaps/ep2.json",
+      "data": null,
+      "format": "TILED_JSON"
+    },
+    {
+      "type": "physics",
+      "key": "stalacites",
+      "url": "assets/gameobjects/stalacitespolyshape.json",
+      "data": null,
+      "format": "LIME_CORONA_JSON"
+    },
+    {
+    "type": "image",
+    "key": "tile",
+    "url": "assets/tilemaps/tiles_objects.png",
+    "overwrite": false
+    },
+    {
+    "type": "audiosprite",
+    "key": "theme",
+    "urls": ["assets/audio/theme/theme.ogg","assets/audio/theme/theme.mp3"],
+    "jsonURL":"assets/audio/theme/theme.json",
+    "jsonData":null,
+    "autoDecode": true
+    }
+    ],
+    "ep3": [
+      {
+        "type": "atlasJSONHash",
+        "key": "player",
+        "textureURL": "assets/characters/dossierframe.png",
+        "atlasURL": "assets/characters/dossierframe.json",
+        "atlasData": null
+      },
+      {
+        "type": "atlasJSONHash",
+        "key": "ratgrunt",
+        "textureURL": "assets/characters/gruntframe.png",
+        "atlasURL": "assets/characters/gruntframe.json",
+        "atlasData": null
+      },
+      {
+        "type": "atlasJSONHash",
+        "key": "ratsoldier",
+        "textureURL": "assets/characters/soldierframe.png",
+        "atlasURL": "assets/characters/soldierframe.json",
+        "atlasData": null
+      },
+      {
+        "type": "atlasJSONHash",
+        "key": "cat",
+        "textureURL": "assets/characters/catframe.png",
+        "atlasURL": "assets/characters/catframe.json",
+        "atlasData": null
+      },
+      {
+        "type": "atlasJSONHash",
+        "key": "objects1",
+        "textureURL": "assets/gameobjects/objects1.png",
+        "atlasURL": "assets/gameobjects/objects1.json",
+        "atlasData": null
+      },
+      {
+        "type": "atlasJSONHash",
+        "key": "objects2",
+        "textureURL": "assets/gameobjects/objects2.png",
+        "atlasURL": "assets/gameobjects/objects2.json",
+        "atlasData": null
+      },
+      {
+        "type": "atlasJSONHash",
+        "key": "objects3",
+        "textureURL": "assets/gameobjects/objects3.png",
+        "atlasURL": "assets/gameobjects/objects3.json",
+        "atlasData": null
+      },
+      {
+        "type": "tilemap",
+        "key": "ep3",
+        "url": "assets/tilemaps/ep3.json",
+        "data": null,
+        "format": "TILED_JSON"
+      },
+      {
+        "type": "physics",
+        "key": "stalacites",
+        "url": "assets/gameobjects/stalacitespolyshape.json",
+        "data": null,
+        "format": "LIME_CORONA_JSON"
+      },
+      {
+      "type": "image",
+      "key": "tile",
+      "url": "assets/tilemaps/tiles_objects.png",
+      "overwrite": false
+      },
+      {
+      "type": "audiosprite",
+      "key": "theme",
+      "urls": ["assets/audio/theme/theme.ogg","assets/audio/theme/theme.mp3"],
+      "jsonURL":"assets/audio/theme/theme.json",
+      "jsonData":null,
+      "autoDecode": true
+      }
+      ],
+      "ep4": [
+          {
+            "type": "atlasJSONHash",
+            "key": "player",
+            "textureURL": "assets/characters/dossierframe.png",
+            "atlasURL": "assets/characters/dossierframe.json",
+            "atlasData": null
+          },
+          {
+            "type": "atlasJSONHash",
+            "key": "ratgrunt",
+            "textureURL": "assets/characters/gruntframe.png",
+            "atlasURL": "assets/characters/gruntframe.json",
+            "atlasData": null
+          },
+          {
+            "type": "atlasJSONHash",
+            "key": "ratsoldier",
+            "textureURL": "assets/characters/soldierframe.png",
+            "atlasURL": "assets/characters/soldierframe.json",
+            "atlasData": null
+          },
+          {
+            "type": "atlasJSONHash",
+            "key": "cat",
+            "textureURL": "assets/characters/catframe.png",
+            "atlasURL": "assets/characters/catframe.json",
+            "atlasData": null
+          },
+          {
+            "type": "atlasJSONHash",
+            "key": "objects1",
+            "textureURL": "assets/gameobjects/objects1.png",
+            "atlasURL": "assets/gameobjects/objects1.json",
+            "atlasData": null
+          },
+          {
+            "type": "atlasJSONHash",
+            "key": "objects2",
+            "textureURL": "assets/gameobjects/objects2.png",
+            "atlasURL": "assets/gameobjects/objects2.json",
+            "atlasData": null
+          },
+          {
+            "type": "atlasJSONHash",
+            "key": "objects3",
+            "textureURL": "assets/gameobjects/objects3.png",
+            "atlasURL": "assets/gameobjects/objects3.json",
+            "atlasData": null
+          },
+          {
+            "type": "atlasJSONHash",
+            "key": "objects4",
+            "textureURL": "assets/gameobjects/objects4.png",
+            "atlasURL": "assets/gameobjects/objects4.json",
+            "atlasData": null
+          },
+          {
+            "type": "tilemap",
+            "key": "ep4",
+            "url": "assets/tilemaps/ep4.json",
+            "data": null,
+            "format": "TILED_JSON"
+          },
+          {
+            "type": "physics",
+            "key": "stalacites",
+            "url": "assets/gameobjects/stalacitespolyshape.json",
+            "data": null,
+            "format": "LIME_CORONA_JSON"
+          },
+          {
+          "type": "image",
+          "key": "tile",
+          "url": "assets/tilemaps/tiles_objects.png",
+          "overwrite": false
+          },
+          {
+          "type": "audiosprite",
+          "key": "theme",
+          "urls": ["assets/audio/theme/theme.ogg","assets/audio/theme/theme.mp3"],
+          "jsonURL":"assets/audio/theme/theme.json",
+          "jsonData":null,
+          "autoDecode": true
+          }
+    ],
+    "ep5": [
+        {
+          "type": "atlasJSONHash",
+          "key": "player",
+          "textureURL": "assets/characters/dossierframe.png",
+          "atlasURL": "assets/characters/dossierframe.json",
+          "atlasData": null
+        },
+        {
+          "type": "atlasJSONHash",
+          "key": "ratgrunt",
+          "textureURL": "assets/characters/gruntframe.png",
+          "atlasURL": "assets/characters/gruntframe.json",
+          "atlasData": null
+        },
+        {
+          "type": "atlasJSONHash",
+          "key": "ratsoldier",
+          "textureURL": "assets/characters/soldierframe.png",
+          "atlasURL": "assets/characters/soldierframe.json",
+          "atlasData": null
+        },
+        {
+          "type": "atlasJSONHash",
+          "key": "ratninja",
+          "textureURL": "assets/characters/ninjaframe.png",
+          "atlasURL": "assets/characters/ninjaframe.json",
+          "atlasData": null
+        },
+        {
+          "type": "atlasJSONHash",
+          "key": "cat",
+          "textureURL": "assets/characters/catframe.png",
+          "atlasURL": "assets/characters/catframe.json",
+          "atlasData": null
+        },
+        {
+          "type": "atlasJSONHash",
+          "key": "objects1",
+          "textureURL": "assets/gameobjects/objects1.png",
+          "atlasURL": "assets/gameobjects/objects1.json",
+          "atlasData": null
+        },
+        {
+          "type": "atlasJSONHash",
+          "key": "objects2",
+          "textureURL": "assets/gameobjects/objects2.png",
+          "atlasURL": "assets/gameobjects/objects2.json",
+          "atlasData": null
+        },
+        {
+          "type": "atlasJSONHash",
+          "key": "objects3",
+          "textureURL": "assets/gameobjects/objects3.png",
+          "atlasURL": "assets/gameobjects/objects3.json",
+          "atlasData": null
+        },
+        {
+          "type": "atlasJSONHash",
+          "key": "objects4",
+          "textureURL": "assets/gameobjects/objects4.png",
+          "atlasURL": "assets/gameobjects/objects4.json",
+          "atlasData": null
+        },
+        {
+          "type": "tilemap",
+          "key": "ep5",
+          "url": "assets/tilemaps/ep5.json",
+          "data": null,
+          "format": "TILED_JSON"
+        },
+        {
+          "type": "physics",
+          "key": "stalacites",
+          "url": "assets/gameobjects/stalacitespolyshape.json",
+          "data": null,
+          "format": "LIME_CORONA_JSON"
+        },
+        {
+        "type": "image",
+        "key": "tile",
+        "url": "assets/tilemaps/tiles_objects.png",
+        "overwrite": false
+        },
+        {
+        "type": "audiosprite",
+        "key": "theme",
+        "urls": ["assets/audio/theme/theme.ogg","assets/audio/theme/theme.mp3"],
+        "jsonURL":"assets/audio/theme/theme.json",
+        "jsonData":null,
+        "autoDecode": true
+        }
+      ],
+      "ep6": [
+          {
+            "type": "atlasJSONHash",
+            "key": "player",
+            "textureURL": "assets/characters/dossierframe.png",
+            "atlasURL": "assets/characters/dossierframe.json",
+            "atlasData": null
+          },
+          {
+            "type": "atlasJSONHash",
+            "key": "ratsoldier",
+            "textureURL": "assets/characters/soldierframe.png",
+            "atlasURL": "assets/characters/soldierframe.json",
+            "atlasData": null
+          },
+          {
+            "type": "atlasJSONHash",
+            "key": "ratninja",
+            "textureURL": "assets/characters/ninjaframe.png",
+            "atlasURL": "assets/characters/ninjaframe.json",
+            "atlasData": null
+          },
+          {
+            "type": "atlasJSONHash",
+            "key": "ratboss",
+            "textureURL": "assets/characters/boss.png",
+            "atlasURL": "assets/characters/boss.json",
+            "atlasData": null
+          },
+          {
+            "type": "atlasJSONHash",
+            "key": "catfinale",
+            "textureURL": "assets/characters/catfinaleframe.png",
+            "atlasURL": "assets/characters/catfinaleframe.json",
+            "atlasData": null
+          },
+          {
+            "type": "physics",
+            "key": "rightarm",
+            "url": "assets/characters/rightarm.json",
+            "data": null,
+            "format": "LIME_CORONA_JSON"
+          },
+          {
+            "type": "physics",
+            "key": "bossbody",
+            "url": "assets/characters/bossbody.json",
+            "data": null,
+            "format": "LIME_CORONA_JSON"
+          },
+          {
+            "type": "atlasJSONHash",
+            "key": "objects1",
+            "textureURL": "assets/gameobjects/objects1.png",
+            "atlasURL": "assets/gameobjects/objects1.json",
+            "atlasData": null
+          },
+          {
+            "type": "atlasJSONHash",
+            "key": "objects2",
+            "textureURL": "assets/gameobjects/objects2.png",
+            "atlasURL": "assets/gameobjects/objects2.json",
+            "atlasData": null
+          },
+          {
+            "type": "atlasJSONHash",
+            "key": "objects3",
+            "textureURL": "assets/gameobjects/objects3.png",
+            "atlasURL": "assets/gameobjects/objects3.json",
+            "atlasData": null
+          },
+          {
+            "type": "atlasJSONHash",
+            "key": "objects4",
+            "textureURL": "assets/gameobjects/objects4.png",
+            "atlasURL": "assets/gameobjects/objects4.json",
+            "atlasData": null
+          },
+          {
+            "type": "atlasJSONHash",
+            "key": "objects5",
+            "textureURL": "assets/gameobjects/objects5.png",
+            "atlasURL": "assets/gameobjects/objects5.json",
+            "atlasData": null
+          },
+          {
+            "type": "tilemap",
+            "key": "ep6",
+            "url": "assets/tilemaps/ep6.json",
+            "data": null,
+            "format": "TILED_JSON"
+          },
+          {
+            "type": "physics",
+            "key": "stalacites",
+            "url": "assets/gameobjects/stalacitespolyshape.json",
+            "data": null,
+            "format": "LIME_CORONA_JSON"
+          },
+          {
+          "type": "image",
+          "key": "tile",
+          "url": "assets/tilemaps/tiles_objects.png",
+          "overwrite": false
+          },
+          {
+          "type": "audiosprite",
+          "key": "boss",
+          "urls": ["assets/audio/boss/boss.ogg","assets/audio/boss/boss.mp3"],
+          "jsonURL":"assets/audio/boss/boss.json",
+          "jsonData":null,
+          "autoDecode": true
+          }
+        ],
+    "gameover": [
+      {
+        "type": "image",
+        "key": "gameover",
+        "url": "assets/menu/gameoverbare.png",
+        "overwrite": false
+      },
+      {
+        "type": "image",
+        "key": "restartepisode",
+        "url": "assets/menu/restartepisode.png",
+        "overwrite": false
+      },
+      {
+        "type": "image",
+        "key": "return",
+        "url": "assets/menu/return.png",
+        "overwrite": false
+      },
+      {
+        "type": "image",
+        "key": "go_wordings",
+        "url": "assets/menu/go_wordings.png",
+        "overwrite": false
+      },
+      {
+      "type": "audiosprite",
+      "key": "gameover",
+      "urls": ["assets/audio/gameover/gameover.ogg","assets/audio/gameover/gameover.mp3"],
+      "jsonURL":"assets/audio/gameover/gameover.json",
+      "jsonData":null,
+      "autoDecode": true
+      }
+    ],
+    "won":[
+      {
+        "type": "image",
+        "key": "won",
+        "url": "assets/menu/winning.png",
+        "overwrite": false
+      },
+      {
+      "type": "audiosprite",
+      "key": "gameover",
+      "urls": ["assets/audio/gameover/gameover.ogg","assets/audio/gameover/gameover.mp3"],
+      "jsonURL":"assets/audio/gameover/gameover.json",
+      "jsonData":null,
+      "autoDecode": true
+      }
+    ],
+  "meta": {
+
+  }
+}

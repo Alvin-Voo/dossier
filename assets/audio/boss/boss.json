@@ -1,0 +1,13 @@
+{
+  "resources": [
+    "boss.ogg",
+    "boss.mp3"
+  ],
+  "spritemap": {
+    "Improv for Evil": {
+      "start": 0,
+      "end": 58.04408163265306,
+      "loop": false
+    }
+  }
+}

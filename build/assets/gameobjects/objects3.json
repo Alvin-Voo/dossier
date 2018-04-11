@@ -1,0 +1,44 @@
+{"frames": {
+
+"ball_blue":
+{
+	"frame": {"x":1,"y":1,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":25},
+	"sourceSize": {"w":25,"h":25}
+},
+"ball_green":
+{
+	"frame": {"x":28,"y":1,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":25},
+	"sourceSize": {"w":25,"h":25}
+},
+"ball_red":
+{
+	"frame": {"x":55,"y":1,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":25},
+	"sourceSize": {"w":25,"h":25}
+},
+"ball_yellow":
+{
+	"frame": {"x":82,"y":1,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":25},
+	"sourceSize": {"w":25,"h":25}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "objects3.png",
+	"format": "RGBA8888",
+	"size": {"w":108,"h":27},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4de7b09bf33d96820244ee694ec08489:b5cfd6bdd46ceaa8c7c8ea2af2cbf099:a4a37e417957d9fae40c8ddba6977991$"
+}
+}

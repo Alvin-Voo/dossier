@@ -1,0 +1,18 @@
+{
+  "resources": [
+    "theme.ogg",
+    "theme.mp3"
+  ],
+  "spritemap": {
+    "Hiding Your Reality": {
+      "start": 0,
+      "end": 192.9665306122449,
+      "loop": false
+    },
+    "Obliteration": {
+      "start": 194,
+      "end": 343.4204081632653,
+      "loop": false
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+    "popup":
+    {
+      "instructions":
+      {
+        "title":"Instructions",
+        "description":"In-game Navigation:\nEscape=> Pause/Unpause game\nUp & Down Arrows=> Navigate menu items\nEnter=> Select/toggle menu item\n\nCharacter Movement:\nLeft Arrow=> Move Left\nRight Arrow=> Move right\nUp Arrow or Spacebar=> Jump\n'A'=> Attack (after weapon upgrade)\n'S'=> Special (after weapon upgrade)"
+      },
+      "credits":{
+        "title":"Credits",
+        "description":"Game design,art & programming: Alvin Voo\n\nAll sounds are from opengameart.org:\nThanks to artisticDude, Iwan Gabovitch,\nBlender Foundation's game Yo! Frankie,\nWobbleboxx & Unnamed for their\nawesome sound effects.\n\nLastly, sound tracks are from\nKevin MacLeod, incompetech.com\n& Brian Byoko\n\nProper attributions and links below."
+      },
+      "ep1":
+      {
+        "tips":
+        {
+          "0":{
+            "title":"Basic Movement",
+            "description":"Move around by using the arrow keys:\nPress Left Arrow to Move Left,\nRight Arrow to Move right\nPress Up Arrow or Spacebar to jump.\n\nMoving about costs energy.\nLook out for the green energy bar\non the top left corner."
+          },
+          "1":{
+            "title":"Ouch!",
+            "description":"Dossier hates water!\n\nTouching water will reduce his life. \nLook out for the red heath bar \non the top left corner."
+          },
+          "2":{
+            "title":"Yummmy!",
+            "description":"Mice love their cheese!\nEspecially Cheddar Cheese!\nHaving cheese or stop moving\nreplenishes Dossier's energy.\n\nWithout energy, Dossier won't be\nable to move or perform any action."
+          },
+          "3":{
+            "title":"Eiwwww~",
+            "description":"Some platforms are slimey and slippery,\nwatch out for Dossier's step!"
+          },
+          "4":{
+            "title":"Wine is Life",
+            "description":"French mice need their wine to survive!\nWine replenises life."
+          },
+          "5":{
+            "title":"First Enemy",
+            "description":"That rat looks unfriendly.\nBut it is a GREAT stepping platform.\n\nJump on it's head to jump to the pipe above."
+          },
+          "6":{
+            "title":"C'est la vie...",
+            "description":"Que sera, sera."
+          }
+        }
+      },
+      "ep2":{
+        "tips":
+        {
+          "0":
+          {
+              "title":"Bamboo Sword",
+              "description":"The ultimate practise sword for Dossier.\nPress 'A' to attack.\nAttack costs considerable amount of energy.\n\nHint: Rats are great STEPPING PLATFORM!"
+          },
+          "1":
+          {
+              "title":"WhadaItellYa?",
+              "description":"Well...Now both rats are dead\nHow's Dossier going to get up there?\n\nA restart?\nOr wait for them to respawn? ;)"
+          }
+        }
+      },
+      "ep4":{
+        "tips":
+        {
+          "0":
+          {
+              "title":"Shurikens",
+              "description":"Made of metal and quite deadly.\nPress 'S' to throw shuriken.\nAttack costs energy and of course, shuriken.\nLook out on top right corner."
+          }
+        }
+      },
+      "ep6":{
+        "bosstext":
+        {
+          "0": "Why.. If it isn't the squeaky mouse with a bamboo stick...",
+          "1": "I applaud your effort for coming here. But whatcha gonna do now?",
+          "2": "Hit me with that little stick of yours??!?",
+          "3": "Come and let me claw your eyes out!"
+        }
+      },
+      "dying":{
+        "0": "I am dying.. Help..",
+        "1": "Help.. I need wine. Lots of it!",
+        "2": "Geez.. My health is lower than usual"
+      },
+      "tiring":{
+        "0": "I am tired.. I need to stop and rest..",
+        "1": "I want me some CheeeeeeeSssse...",
+        "2": "I need some rest right now! Or cheese!"
+      },
+      "outofammo":{
+        "0":"Out of ammo. Plain and simple.",
+        "1":"Mehh... What's up doc?"
+      },
+      "episodes":
+      {
+        "ep1": "The Apprenticeship",
+        "ep2": "The Rat Infestation",
+        "ep3": "The Flying Menace",
+        "ep4": "The Shooting Stars",
+        "ep5": "The Ninja Reality",
+        "ep6": "The O'Mighty Claw"
+      }
+    }
+
+}

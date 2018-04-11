@@ -1,0 +1,13 @@
+{
+  "resources": [
+    "intro.ogg",
+    "intro.mp3"
+  ],
+  "spritemap": {
+    "Finding Movement": {
+      "start": 0,
+      "end": 116.06401360544217,
+      "loop": false
+    }
+  }
+}

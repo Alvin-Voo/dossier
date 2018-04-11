@@ -1,0 +1,143 @@
+{
+  "resources": [
+    "sfx.ogg",
+    "sfx.mp3"
+  ],
+  "spritemap": {
+    "bosshit": {
+      "start": 0,
+      "end": 2.152517006802721,
+      "loop": false
+    },
+    "collectsword": {
+      "start": 4,
+      "end": 7.579841269841269,
+      "loop": false
+    },
+    "Rise04": {
+      "start": 9,
+      "end": 12.40172335600907,
+      "loop": false
+    },
+    "damaged": {
+      "start": 14,
+      "end": 14.60625850340136,
+      "loop": false
+    },
+    "Footstep_Water_00": {
+      "start": 16,
+      "end": 16.75861678004535,
+      "loop": false
+    },
+    "Footstep_Water_01": {
+      "start": 18,
+      "end": 18.73249433106576,
+      "loop": false
+    },
+    "Footstep_Water_02": {
+      "start": 20,
+      "end": 20.73249433106576,
+      "loop": false
+    },
+    "Footstep_Water_03": {
+      "start": 22,
+      "end": 22.810861678004535,
+      "loop": false
+    },
+    "Footstep_Water_04": {
+      "start": 24,
+      "end": 24.810861678004535,
+      "loop": false
+    },
+    "Footstep_Water_05": {
+      "start": 26,
+      "end": 26.654126984126982,
+      "loop": false
+    },
+    "Footstep_Water_06": {
+      "start": 28,
+      "end": 28.75861678004535,
+      "loop": false
+    },
+    "jump": {
+      "start": 30,
+      "end": 30.42231292517007,
+      "loop": false
+    },
+    "land": {
+      "start": 32,
+      "end": 32.28879818594104,
+      "loop": false
+    },
+    "menuselect": {
+      "start": 34,
+      "end": 34.15780045351474,
+      "loop": false
+    },
+    "mnstr7": {
+      "start": 36,
+      "end": 36.64950113378685,
+      "loop": false
+    },
+    "mnstr8": {
+      "start": 38,
+      "end": 38.583242630385485,
+      "loop": false
+    },
+    "mnstr9": {
+      "start": 40,
+      "end": 40.75260770975056,
+      "loop": false
+    },
+    "pull1": {
+      "start": 42,
+      "end": 42.394172335600906,
+      "loop": false
+    },
+    "pull": {
+      "start": 44,
+      "end": 44.5221768707483,
+      "loop": false
+    },
+    "swipe1": {
+      "start": 46,
+      "end": 46.40482993197279,
+      "loop": false
+    },
+    "swipe2": {
+      "start": 48,
+      "end": 48.4368253968254,
+      "loop": false
+    },
+    "swipe3": {
+      "start": 50,
+      "end": 50.31950113378685,
+      "loop": false
+    },
+    "swish": {
+      "start": 52,
+      "end": 52.070839002267576,
+      "loop": false
+    },
+    "Rise05": {
+      "start": 54,
+      "end": 57.529433106575965,
+      "loop": false
+    },
+    "slime7": {
+      "start": 59,
+      "end": 59.35011337868481,
+      "loop": false
+    },
+    "slime8": {
+      "start": 61,
+      "end": 61.56018140589569,
+      "loop": false
+    },
+    "slime9": {
+      "start": 63,
+      "end": 63.49015873015873,
+      "loop": false
+    }
+  }
+}
